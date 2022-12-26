@@ -1,6 +1,6 @@
 ### Hi there! :grinning:
--   :blue_book:    I’m Kenny Cui and I am a currently engineering student @ Univeristy of Toronto.
-- 👀 I’m interested in machine learning and software development.
+-   :blue_book:    I’m Kenny Cui and I am currently a computer engineering student @ Univeristy of Toronto.
+- 👀 I’m interested in machine learning and data science.
 - 📫 Feel free to reach out to me on [LinkedIn](https://ca.linkedin.com/in/kenny-cui-731609192?original_referer=https%3A%2F%2Fwww.google.com%2F) or by Email: kenny.cui@mail.utoronto.ca
 
 <!---
