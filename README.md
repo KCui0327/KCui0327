@@ -32,7 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KCui0327/KCui0327/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Contacts</h2>
 
 ###
 
