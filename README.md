@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning design patterns and software architecture<br>🎲 Fun fact - I like Cheesecake lol</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about design patterns and software architecture<br>🎲 Fun fact - I like Cheesecake lol</p>
 
 ###
 
