@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🤖 I'm passionate about distributed systems and ML infrastructure!<br>📚 I'm currently learning about Kubernetes and Apache Kafka <br>🎲 Fun fact - I like Cheesecake lol</p>
+<p align="left">✨ Creating bugs since 2022<br>🤖 I'm passionate about distributed systems and ML infrastructure!<br>🎲 Fun fact - I like Cheesecake lol</p>
 
 ###
 
